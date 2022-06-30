@@ -1,4 +1,4 @@
-# General-Immersion-Day
+# General Immersion Day
 General Immersion Day Instructions and Lab
 
 
