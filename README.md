@@ -1,6 +1,4 @@
 # General Immersion Day
-General Immersion Day Instructions and Lab
-
 
 In this workshop, you can learn various functions of each AWS foundational service.
 
